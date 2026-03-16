@@ -1,4 +1,4 @@
-# customer_Behavior_Analysis
+# Customer Behavior Data Analyst Portfolio Project
 # Data Analytics Project
 
 ## Overview
